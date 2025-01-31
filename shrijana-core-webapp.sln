@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shrijana-core-webapp", "shrijana-core-webapp\shrijana-core-webapp.csproj", "{6CF21D7F-7138-4FA9-8A0B-E67B97CE1401}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CF21D7F-7138-4FA9-8A0B-E67B97CE1401}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CF21D7F-7138-4FA9-8A0B-E67B97CE1401}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CF21D7F-7138-4FA9-8A0B-E67B97CE1401}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CF21D7F-7138-4FA9-8A0B-E67B97CE1401}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA034134-B2A1-4E35-8DBE-523A78B5AAB8}
+	EndGlobalSection
+EndGlobal

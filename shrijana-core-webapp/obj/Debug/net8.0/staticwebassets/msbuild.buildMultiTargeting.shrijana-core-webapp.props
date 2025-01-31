@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/shrijana-core-webapp.props" />
+</Project>
